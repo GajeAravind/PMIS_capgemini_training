@@ -10,7 +10,7 @@ class circle extends shape{
 }
 class square extends shape{
     void drawsquare(){
-        System.out.println("Drawing Square");
+        System.out.println("Drawing  a " + color + " Square");
     }
 }
 
@@ -22,7 +22,6 @@ public class HierarchicalInheritance {
         System.out.println(c.color);
         square s = new square();
         s.drawsquare();
-        System.out.println(s.color);
     }
     
 }
