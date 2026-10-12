@@ -29,3 +29,12 @@ package oops;
     }
     
 }
+// Code	Explanation
+// class Student	Creates a class named Student
+// String name	Stores the student's name
+// int age	Stores the student's age
+// displayDetails()	Method that displays student details
+// Student s1	Declares an object reference
+// new Student()	Creates a new Student object
+// s1.name = "Aravind"	Assigns a name to the object
+// s1.displayDetails()	Calls the object's method
