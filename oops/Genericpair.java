@@ -12,7 +12,7 @@ class Box<T> {
     }
 }
 
-class gen {
+class Genericpair {
     public static void main(String[] args) {
 
         // Example 1: Box with String
