@@ -1,5 +1,5 @@
 // Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
-public class StringExample {
+public class stringExample {
 
 //    public static void main(String[] var0) {
 //       String var1 = new String("Aravind");
@@ -25,4 +25,4 @@ public static void main(String[] args) {
      System.out.println(obj.capacity());
     System.out.println(obj.length());
 }
-
+}
